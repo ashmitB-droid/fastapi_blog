@@ -5,7 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
-
+.DS_Store
+.vscode/
+fastapi_blog.code-workspace
+templates/.DS_Store
 # Virtual environments
 .venv
 .python-version
